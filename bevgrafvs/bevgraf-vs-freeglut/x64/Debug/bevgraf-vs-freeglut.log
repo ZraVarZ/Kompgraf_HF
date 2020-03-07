@@ -1,0 +1,13 @@
+﻿  Dorogi_Adam_1.cpp
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(69,41): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(78,42): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(86,41): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(153,6): warning C4267:  'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(157,44): warning C4244:  'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(157,26): warning C4244:  'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(162,6): warning C4267:  'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(172,23): warning C4244:  '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(173,33): warning C4244:  '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\ZraVarZ\Desktop\kompgrafgitre\1\Dorogi_Adam_1.cpp(170,8): warning C4101:  'i': unreferenced local variable
+  bevgraf-vs-freeglut.vcxproj -> C:\Users\ZraVarZ\Desktop\kompgrafgitre\bevgrafvs\x64\Debug\bevgraf-vs-freeglut.exe
+  0 File(s) copied
